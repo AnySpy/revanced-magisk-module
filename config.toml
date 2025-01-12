@@ -3,5 +3,5 @@ parallel-jobs = 1
 
 
 [Tiktok]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-38-2-2-release/tiktok-38-2-2-android-apk-download/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/tik-tok-including-musical-ly-38-2-2-release/tiktok-38-2-2-android-apk-download/download/?key=f407c601c42fb978e0a19c0c535731a0bf0e2821"
 included-patches = "'SIM spoof'"
